@@ -1,0 +1,13 @@
+build/
+*.o
+*.a
+*.out
+*.exe
+
+#可执行文件
+pigscript
+
+#IDE 文件
+.vscode/
+.idea/
+*.code-workspace
